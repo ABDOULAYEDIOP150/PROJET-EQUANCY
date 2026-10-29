@@ -1,0 +1,4 @@
+test,forme_de_lien,statistique,p_value,nb_pays,significatif_5pct
+Spearman,monotone,-0.12133800527399487,0.24402486212484562,94,False
+Khi² d'indépendance,toute forme,13.833582755723587,0.12836937537195464,94,False
+Spearman partiel,"monotone, à richesse égale",0.029969108632936597,0.7767268727107757,93,False

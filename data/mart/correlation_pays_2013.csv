@@ -1,0 +1,95 @@
+code_iso,nom_pays,continent,emissions_t_hab,depenses_education_pct_pib
+AFG,Afghanistan,Asie,0.293283,2.07295
+AGO,Angola,Afrique,0.945371,2.39972
+ARG,Argentina,Amérique,4.471468,1.63274
+ARM,Armenia,Asie,1.907711,0.53297
+AUS,Australia,Océanie,17.061266,1.71612
+AUT,Austria,Europe,7.854267,0.90431
+BDI,Burundi,Afrique,0.039213,2.72371
+BEL,Belgium,Europe,9.057399,1.54839
+BEN,Benin,Afrique,0.442924,1.66803
+BFA,Burkina Faso,Afrique,0.162382,2.4414
+BGR,Bulgaria,Europe,5.601931,0.79932
+BHR,Bahrain,Asie,24.695504,0.79438
+BOL,Bolivia (Plurinational State of),Amérique,1.767524,3.05293
+BRA,Brazil,Amérique,2.607216,1.63935
+CHE,Switzerland,Europe,5.315956999999999,1.45926
+CHL,Chile,Amérique,4.668029,1.32834
+CIV,Côte d'Ivoire,Afrique,0.430801,1.35857
+CMR,Cameroon,Afrique,0.362851,0.89966
+COD,Democratic Republic of the Congo,Afrique,0.048157000000000005,1.27019
+COL,Colombia,Amérique,1.9054630000000001,1.67919
+CRI,Costa Rica,Amérique,1.592708,2.44739
+CYP,Cyprus,Asie,5.6309059999999995,1.97899
+CZE,Czechia,Europe,9.985592,0.71867
+DEU,Germany,Europe,10.071172,0.6358
+DNK,Denmark,Europe,7.355830000000001,2.11283
+DOM,Dominican Republic,Amérique,2.093811,1.85289
+ECU,Ecuador,Amérique,2.522101,1.54927
+ESP,Spain,Europe,5.369361,1.13613
+EST,Estonia,Europe,14.716859,1.48689
+ETH,Ethiopia,Afrique,0.10074799999999999,1.08172
+FIN,Finland,Europe,9.343808999999998,1.3262
+GAB,Gabon,Afrique,3.1157269999999997,0.76477
+GBR,United Kingdom of Great Britain and Northern Ireland,Europe,7.372682,1.64636
+GHA,Ghana,Afrique,0.520966,1.1157
+GIN,Guinea,Afrique,0.190898,1.05732
+GMB,Gambia,Afrique,0.200024,0.9421
+GNB,Guinea-Bissau,Afrique,0.144596,1.3737
+GTM,Guatemala,Amérique,0.830705,1.52236
+HKG,"China, Hong Kong Special Administrative Region",Asie,6.072077000000001,0.65973
+HND,Honduras,Amérique,1.045113,2.87287
+HUN,Hungary,Europe,4.352278,0.86008
+IDN,Indonesia,Asie,1.9309180000000001,1.42625
+IND,India,Asie,1.5780070000000002,1.09193
+IRL,Ireland,Europe,7.970679,1.93595
+IRN,Iran (Islamic Republic of),Asie,7.621215,0.74785
+ISR,Israel,Asie,8.165906,2.17341
+ITA,Italy,Europe,6.072444,1.01095
+JAM,Jamaica,Amérique,3.062332,2.26834
+JPN,Japan,Asie,10.231807,1.21071
+KEN,Kenya,Afrique,0.288122,1.74858
+KHM,Cambodia,Asie,0.37578999999999996,0.95523
+LAO,Lao People's Democratic Republic,Asie,0.6455580000000001,1.33683
+LKA,Sri Lanka,Asie,0.694645,0.35972
+LTU,Lithuania,Europe,4.386739,0.7017
+LVA,Latvia,Europe,3.614051,2.1006
+MAR,Morocco,Afrique,1.6745720000000002,2.29122
+MDA,Republic of Moldova,Europe,1.434016,1.30999
+MEX,Mexico,Amérique,4.224421,1.77298
+MLI,Mali,Afrique,0.161338,1.29606
+MNG,Mongolia,Asie,15.281442,2.3765
+MOZ,Mozambique,Afrique,0.141843,3.01159
+MRT,Mauritania,Afrique,0.579451,0.99102
+MUS,Mauritius,Afrique,3.151056,0.9801
+MWI,Malawi,Afrique,0.07258099999999999,1.98968
+MYS,Malaysia,Asie,8.036101,1.76212
+NER,Niger,Afrique,0.11100199999999999,1.96502
+NOR,Norway,Europe,8.65339,1.67207
+NPL,Nepal,Asie,0.227082,1.50817
+NZL,New Zealand,Océanie,7.775401,1.54326
+PAK,Pakistan,Asie,0.73793,0.81492
+PER,Peru,Amérique,1.432277,1.30871
+POL,Poland,Europe,8.246449,1.52147
+PRT,Portugal,Europe,4.520401000000001,1.56457
+ROU,Romania,Europe,3.8830149999999994,0.50603
+RWA,Rwanda,Afrique,0.070467,1.42864
+SEN,Senegal,Afrique,0.577591,2.02361
+SGP,Singapore,Asie,9.288328,0.62749
+SLE,Sierra Leone,Afrique,0.144669,1.16273
+SLV,El Salvador,Amérique,0.985261,1.62552
+SSD,South Sudan,Afrique,0.129985,0.63957
+SVK,Slovakia,Europe,6.400798999999999,0.79986
+SVN,Slovenia,Europe,7.25337,1.50997
+SWE,Sweden,Europe,4.631763,1.70339
+SWZ,Eswatini,Afrique,1.2515640000000001,2.20386
+TGO,Togo,Afrique,0.23114300000000002,2.59154
+THA,Thailand,Asie,4.1731869999999995,1.69522
+TLS,Timor-Leste,Asie,0.457387,3.19925
+TUR,Türkiye,Asie,4.446938,0.85117
+UGA,Uganda,Afrique,0.10644,1.07092
+UKR,Ukraine,Europe,6.482463,1.12121
+URY,Uruguay,Amérique,2.2159050000000002,1.13925
+VNM,Viet Nam,Asie,1.678543,1.34443
+ZAF,South Africa,Afrique,8.513039,2.2693
+ZWE,Zimbabwe,Afrique,0.861011,2.7928

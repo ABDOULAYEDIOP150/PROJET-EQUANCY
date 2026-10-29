@@ -1,0 +1,237 @@
+code_iso,nom_pays,continent,type_entite,population_recente_milliers,plus_d_un_million
+ABW,Aruba,Amérique,Pays,107.0,False
+AFG,Afghanistan,Asie,Pays,39835.0,True
+AGO,Angola,Afrique,Pays,33934.0,True
+AIA,Anguilla,Amérique,Pays,15.0,False
+ALB,Albania,Europe,Pays,2873.0,True
+AND,Andorra,Europe,Pays,,
+ARE,United Arab Emirates,Asie,Pays,9991.0,True
+ARG,Argentina,Amérique,Pays,45606.0,True
+ARM,Armenia,Asie,Pays,2968.0,True
+ASM,American Samoa,Océanie,Pays,55.0,False
+ATG,Antigua and Barbuda,Amérique,Pays,99.0,False
+AUS,Australia,Océanie,Pays,25788.0,True
+AUT,Austria,Europe,Pays,9043.0,True
+AZE,Azerbaijan,Asie,Pays,10139.0,True
+BDI,Burundi,Afrique,Pays,12255.0,True
+BEL,Belgium,Europe,Pays,11632.0,True
+BEN,Benin,Afrique,Pays,12451.0,True
+BFA,Burkina Faso,Afrique,Pays,21497.0,True
+BGD,Bangladesh,Asie,Pays,166303.0,True
+BGR,Bulgaria,Europe,Pays,6897.0,True
+BHR,Bahrain,Asie,Pays,1748.0,True
+BHS,Bahamas,Amérique,Pays,397.0,False
+BIH,Bosnia and Herzegovina,Europe,Pays,3263.0,True
+BLM,Saint-Barthélemy,Amérique,Pays,10.0,False
+BLR,Belarus,Europe,Pays,9443.0,True
+BLZ,Belize,Amérique,Pays,405.0,False
+BMU,Bermuda,Amérique,Pays,62.0,False
+BOL,Bolivia (Plurinational State of),Amérique,Pays,11833.0,True
+BRA,Brazil,Amérique,Pays,212559.0,True
+BRB,Barbados,Amérique,Pays,288.0,False
+BRN,Brunei Darussalam,Asie,Pays,442.0,False
+BTN,Bhutan,Asie,Pays,780.0,False
+BWA,Botswana,Afrique,Pays,2397.0,True
+CAF,Central African Republic,Afrique,Pays,4920.0,True
+CAN,Canada,Amérique,Pays,38068.0,True
+CHE,Switzerland,Europe,Pays,8715.0,True
+CHL,Chile,Amérique,Pays,19212.0,True
+CHN,China,Asie,Pays,1444216.0,True
+CIV,Côte d'Ivoire,Afrique,Pays,27054.0,True
+CMR,Cameroon,Afrique,Pays,27224.0,True
+COD,Democratic Republic of the Congo,Afrique,Pays,92378.0,True
+COG,Congo,Afrique,Pays,5657.0,True
+COK,Cook Islands,Océanie,Pays,18.0,False
+COL,Colombia,Amérique,Pays,51266.0,True
+COM,Comoros,Afrique,Pays,888.0,False
+CPV,Cabo Verde,Afrique,Pays,562.0,False
+CRI,Costa Rica,Amérique,Pays,5139.0,True
+CUB,Cuba,Amérique,Pays,11318.0,True
+CUW,Curaçao,Amérique,Pays,165.0,False
+CYM,Cayman Islands,Amérique,Pays,66.0,False
+CYP,Cyprus,Asie,Pays,1207.0,True
+CZE,Czechia,Europe,Pays,10725.0,True
+DEU,Germany,Europe,Pays,83900.0,True
+DJI,Djibouti,Afrique,Pays,1002.0,True
+DMA,Dominica,Amérique,Pays,72.0,False
+DNK,Denmark,Europe,Pays,5813.0,True
+DOM,Dominican Republic,Amérique,Pays,10954.0,True
+DZA,Algeria,Afrique,Pays,44617.0,True
+ECU,Ecuador,Amérique,Pays,17888.0,True
+EGY,Egypt,Afrique,Pays,104258.0,True
+ERI,Eritrea,Afrique,Pays,3601.0,True
+ESH,Western Sahara,Afrique,Pays,612.0,False
+ESP,Spain,Europe,Pays,46745.0,True
+EST,Estonia,Europe,Pays,1325.0,True
+ETH,Ethiopia,Afrique,Pays,117876.0,True
+FIN,Finland,Europe,Pays,5548.0,True
+FJI,Fiji,Océanie,Pays,903.0,False
+FLK,Falkland Islands (Malvinas),Amérique,Pays,4.0,False
+FRA,France,Europe,Pays,65274.0,True
+FRO,Faeroe Islands,Europe,Pays,49.0,False
+FSM,Micronesia (Federated States of),Océanie,Pays,116.0,False
+GAB,Gabon,Afrique,Pays,2279.0,True
+GBR,United Kingdom of Great Britain and Northern Ireland,Europe,Pays,68207.0,True
+GEO,Georgia,Asie,Pays,3980.0,True
+GHA,Ghana,Afrique,Pays,31732.0,True
+GIB,Gibraltar,Europe,Pays,34.0,False
+GIN,Guinea,Afrique,Pays,13497.0,True
+GLP,Guadeloupe,Amérique,Pays,400.0,False
+GMB,Gambia,Afrique,Pays,2487.0,True
+GNB,Guinea-Bissau,Afrique,Pays,2015.0,True
+GNQ,Equatorial Guinea,Afrique,Pays,1450.0,True
+GRC,Greece,Europe,Pays,10371.0,True
+GRD,Grenada,Amérique,Pays,113.0,False
+GRL,Greenland,Amérique,Pays,57.0,False
+GTM,Guatemala,Amérique,Pays,18250.0,True
+GUF,French Guiana,Amérique,Pays,306.0,False
+GUM,Guam,Océanie,Pays,170.0,False
+GUY,Guyana,Amérique,Pays,790.0,False
+HKG,"China, Hong Kong Special Administrative Region",Asie,Pays,7553.0,True
+HND,Honduras,Amérique,Pays,10063.0,True
+HRV,Croatia,Europe,Pays,4082.0,True
+HTI,Haiti,Amérique,Pays,11542.0,True
+HUN,Hungary,Europe,Pays,9634.0,True
+IDN,Indonesia,Asie,Pays,276362.0,True
+IMN,Isle of Man,Europe,Pays,85.0,False
+IND,India,Asie,Pays,1393409.0,True
+IRL,Ireland,Europe,Pays,4938.0,True
+IRN,Iran (Islamic Republic of),Asie,Pays,85029.0,True
+IRQ,Iraq,Asie,Pays,41179.0,True
+ISL,Iceland,Europe,Pays,343.0,False
+ISR,Israel,Asie,Pays,8790.0,True
+ITA,Italy,Europe,Pays,60367.0,True
+JAM,Jamaica,Amérique,Pays,2973.0,True
+JOR,Jordan,Asie,Pays,10269.0,True
+JPN,Japan,Asie,Pays,126860.0,True
+KAZ,Kazakhstan,Asie,Pays,18995.0,True
+KEN,Kenya,Afrique,Pays,54986.0,True
+KGZ,Kyrgyzstan,Asie,Pays,6628.0,True
+KHM,Cambodia,Asie,Pays,16946.0,True
+KIR,Kiribati,Océanie,Pays,121.0,False
+KNA,Saint Kitts and Nevis,Amérique,Pays,54.0,False
+KOR,Republic of Korea,Asie,Pays,51305.0,True
+KSV,Kosovo,Europe,Pays,,
+KWT,Kuwait,Asie,Pays,4329.0,True
+LAO,Lao People's Democratic Republic,Asie,Pays,7379.0,True
+LBN,Lebanon,Asie,Pays,,
+LBR,Liberia,Afrique,Pays,5180.0,True
+LBY,Libya,Afrique,Pays,6959.0,True
+LCA,Saint Lucia,Amérique,Pays,184.0,False
+LIE,Liechtenstein,Europe,Pays,38.0,False
+LKA,Sri Lanka,Asie,Pays,21497.0,True
+LSO,Lesotho,Afrique,Pays,2159.0,True
+LTU,Lithuania,Europe,Pays,2722.0,True
+LUX,Luxembourg,Europe,Pays,635.0,False
+LVA,Latvia,Europe,Pays,1886.0,True
+MAC,"China, Macao Special Administrative Region",Asie,Pays,658.0,False
+MAF,Saint-Martin (French part),Amérique,Pays,39.0,False
+MAR,Morocco,Afrique,Pays,37345.0,True
+MCO,Monaco,Europe,Pays,40.0,False
+MDA,Republic of Moldova,Europe,Pays,4034.0,True
+MDG,Madagascar,Afrique,Pays,28427.0,True
+MDV,Maldives,Asie,Pays,544.0,False
+MEX,Mexico,Amérique,Pays,130262.0,True
+MHL,Marshall Islands,Océanie,Pays,60.0,False
+MKD,North Macedonia,Europe,Pays,2083.0,True
+MLI,Mali,Afrique,Pays,20856.0,True
+MLT,Malta,Europe,Pays,443.0,False
+MMR,Myanmar,Asie,Pays,54806.0,True
+MNE,Montenegro,Europe,Pays,628.0,False
+MNG,Mongolia,Asie,Pays,3329.0,True
+MNP,Northern Mariana Islands,Océanie,Pays,58.0,False
+MOZ,Mozambique,Afrique,Pays,32163.0,True
+MRT,Mauritania,Afrique,Pays,4775.0,True
+MSR,Montserrat,Amérique,Pays,5.0,False
+MTQ,Martinique,Amérique,Pays,375.0,False
+MUS,Mauritius,Afrique,Pays,1273.0,True
+MWI,Malawi,Afrique,Pays,19648.0,True
+MYS,Malaysia,Asie,Pays,32776.0,True
+MYT,Mayotte,Afrique,Pays,280.0,False
+NAM,Namibia,Afrique,Pays,2587.0,True
+NCL,New Caledonia,Océanie,Pays,288.0,False
+NER,Niger,Afrique,Pays,25131.0,True
+NGA,Nigeria,Afrique,Pays,211401.0,True
+NIC,Nicaragua,Amérique,Pays,6702.0,True
+NIU,Niue,Océanie,Pays,2.0,False
+NLD,Netherlands,Europe,Pays,17173.0,True
+NOR,Norway,Europe,Pays,5466.0,True
+NPL,Nepal,Asie,Pays,29675.0,True
+NRU,Nauru,Océanie,Pays,11.0,False
+NZL,New Zealand,Océanie,Pays,4861.0,True
+OMN,Oman,Asie,Pays,5223.0,True
+PAK,Pakistan,Asie,Pays,225200.0,True
+PAN,Panama,Amérique,Pays,4382.0,True
+PER,Peru,Amérique,Pays,33359.0,True
+PHL,Philippines,Asie,Pays,111047.0,True
+PLW,Palau,Océanie,Pays,18.0,False
+PNG,Papua New Guinea,Océanie,Pays,9119.0,True
+POL,Poland,Europe,Pays,37797.0,True
+PRI,Puerto Rico,Amérique,Pays,2828.0,True
+PRK,Democratic People's Republic of Korea,Asie,Pays,25887.0,True
+PRT,Portugal,Europe,Pays,10168.0,True
+PRY,Paraguay,Amérique,Pays,7220.0,True
+PSE,Palestine,Asie,Pays,5223.0,True
+PYF,French Polynesia,Océanie,Pays,283.0,False
+QAT,Qatar,Asie,Pays,2931.0,True
+REU,Réunion,Afrique,Pays,902.0,False
+ROU,Romania,Europe,Pays,19128.0,True
+RUS,Russian Federation,Europe,Pays,145912.0,True
+RWA,Rwanda,Afrique,Pays,13277.0,True
+SAU,Saudi Arabia,Asie,Pays,35341.0,True
+SDN,Sudan,Afrique,Pays,44909.0,True
+SEN,Senegal,Afrique,Pays,17196.0,True
+SGP,Singapore,Asie,Pays,5850.0,True
+SHN,Saint Helena,Afrique,Pays,6.0,False
+SLB,Solomon Islands,Océanie,Pays,704.0,False
+SLE,Sierra Leone,Afrique,Pays,8141.0,True
+SLV,El Salvador,Amérique,Pays,6518.0,True
+SMR,San Marino,Europe,Pays,34.0,False
+SOM,Somalia,Afrique,Pays,16360.0,True
+SPM,Saint Pierre and Miquelon,Amérique,Pays,6.0,False
+SRB,Serbia,Europe,Pays,8737.0,True
+SSD,South Sudan,Afrique,Pays,11381.0,True
+STP,Sao Tome and Principe,Afrique,Pays,223.0,False
+SUR,Suriname,Amérique,Pays,592.0,False
+SVK,Slovakia,Europe,Pays,5461.0,True
+SVN,Slovenia,Europe,Pays,2079.0,True
+SWE,Sweden,Europe,Pays,10160.0,True
+SWZ,Eswatini,Afrique,Pays,1172.0,True
+SXM,Sint Maarten (Dutch part),Amérique,Pays,43.0,False
+SYC,Seychelles,Afrique,Pays,99.0,False
+SYR,Syrian Arab Republic,Asie,Pays,18276.0,True
+TCA,Turks and Caicos Islands,Amérique,Pays,39.0,False
+TCD,Chad,Afrique,Pays,16915.0,True
+TGO,Togo,Afrique,Pays,8478.0,True
+THA,Thailand,Asie,Pays,69951.0,True
+TJK,Tajikistan,Asie,Pays,9750.0,True
+TKL,Tokelau,Océanie,Pays,1.0,False
+TKM,Turkmenistan,Asie,Pays,6118.0,True
+TLS,Timor-Leste,Asie,Pays,1344.0,True
+TON,Tonga,Océanie,Pays,107.0,False
+TTO,Trinidad and Tobago,Amérique,Pays,1403.0,True
+TUN,Tunisia,Afrique,Pays,11936.0,True
+TUR,Türkiye,Asie,Pays,85043.0,True
+TUV,Tuvalu,Océanie,Pays,12.0,False
+TWN,Taiwan,Asie,Pays,,
+TZA,United Republic of Tanzania,Afrique,Pays,61498.0,True
+UGA,Uganda,Afrique,Pays,47124.0,True
+UKR,Ukraine,Europe,Pays,45287.0,True
+URY,Uruguay,Amérique,Pays,3485.0,True
+USA,United States of America,Amérique,Pays,329065.0,True
+UZB,Uzbekistan,Asie,Pays,33936.0,True
+VAT,Holy See,Europe,Pays,1.0,False
+VCT,Saint Vincent and the Grenadines,Amérique,Pays,111.0,False
+VEN,Venezuela (Bolivarian Republic of),Amérique,Pays,28705.0,True
+VGB,British Virgin Islands,Amérique,Pays,30.0,False
+VIR,United States Virgin Islands,Amérique,Pays,104.0,False
+VNM,Viet Nam,Asie,Pays,98169.0,True
+VUT,Vanuatu,Océanie,Pays,314.0,False
+WLD,Monde,Monde,Monde,,
+WLF,Wallis and Futuna Islands,Océanie,Pays,11.0,False
+WSM,Samoa,Océanie,Pays,200.0,False
+YEM,Yemen,Asie,Pays,30491.0,True
+ZAF,South Africa,Afrique,Pays,60042.0,True
+ZMB,Zambia,Afrique,Pays,18921.0,True
+ZWE,Zimbabwe,Afrique,Pays,15092.0,True
+ZZA,Channel Islands,Europe,Pays,175.0,False

@@ -1,0 +1,6 @@
+test,forme_de_lien,statistique,p_value,nb_pays,significatif_5pct
+Spearman 2013,monotone,-0.121,0.24402486212484562,94,False
+Permutation 2013,"monotone, sans hypothèse de loi",-0.121,0.2461,94,False
+Khi² d'indépendance 2013,toute forme,13.83,0.12836937537195467,94,False
+Corrélation de distance 2013,toute forme,0.202,0.158,94,False
+Spearman partiel 2013 (à richesse égale),"monotone, richesse contrôlée",0.03,0.7767268727107757,93,False
